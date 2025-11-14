@@ -51,7 +51,7 @@
 - 존레몬의 공포체험 게임 제작
   [https://qjayo.tistory.com/5]
 
-### 6. ETC
+### 6. 기타
   
 - Database
   [https://github.com/QjaYo/DatabaseMiniProject_OnlineShoppingMall.git]
