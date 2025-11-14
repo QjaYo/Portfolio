@@ -2,7 +2,7 @@
 
 ## Studies & Projects
 
-1. 물리기반 시뮬레이션
+### 1. 물리기반 시뮬레이션
 
    - 프로젝트
      
@@ -11,24 +11,24 @@
    - 논문 리뷰
      
       - "Stable Fluid for Games" - Jos Stam
+        [https://odd-coconut-b43.notion.site/Stam-Fluid-for-Games-26099313de438090b8b1ea6e288372b1?source=copy_link]
     
       - "Generalizing Shallow Water Simulations with Dispersive Surface Waves" - Stefan Jeschike et al.
     
       - "An Image Synthesizer" - Ken Perlin
+        [https://odd-coconut-b43.notion.site/Perlin-Noise-1e399313de438055b311d626faae9465?source=copy_link]
     
       - "Curl-Noise for Procedural Fluid Flow" - Robert Bridson et al.
   
    - 관련된 물리/수학 개념학습
      
       -  Navier Stokes Equation
+         [https://odd-coconut-b43.notion.site/Navier-Stockes-Equation-22e99313de4380a5bc85e53fbe305e91?source=copy_link]
     
       -  Linear Algebra & Elastic Potential Energy
+         [https://odd-coconut-b43.notion.site/2a399313de43805d8b7df1b072edaecc?source=copy_link]
 
-- Navier Stockes Equation
-
-- Stable Fluid - Joe Stam
-
-2. 수학
+### 2. 수학
    
 - 미적분학
   
@@ -37,23 +37,18 @@
   
 - 수치해석학
 
-3. 컴퓨터그래픽스
+### 3. 컴퓨터그래픽스
 [https://github.com/QjaYo/ComputerGraphics.git]
 
-- IK
+### 4. 컴퓨터비전
+[]
 
-4. 컴퓨터비전
-
-- 
-
-5. 유니티
+### 5. 유니티
 
 - 존레몬의 공포체험 게임 제작
   [https://qjayo.tistory.com/5]
 
-7. ETC
-
-- Algorithm
+### 6. ETC
   
 - Database [https://github.com/QjaYo/Database_MiniProject.git]
 
