@@ -38,6 +38,10 @@
 - 수치해석학
 
 ### 3. 컴퓨터그래픽스
+- Camera System, 3D Transform
+- Shader Programming
+- Inverse Kinematics
+- Maze Navigator
 [https://github.com/QjaYo/ComputerGraphics.git]
 
 ### 4. 컴퓨터비전
