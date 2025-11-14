@@ -33,6 +33,7 @@
 - 미적분학
   
 - 선형대수학
+[https://odd-coconut-b43.notion.site/23d99313de438054905be94f6c4a5f41?source=copy_link]
   
 - 수치해석학
 
