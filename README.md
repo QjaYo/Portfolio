@@ -6,7 +6,7 @@
 
    - 프로젝트
      
-      - Stable Fluid
+      - Stable Fluid for Games
         [https://github.com/QjaYo/StamFluidforGames.git]
   
    - 논문 리뷰
