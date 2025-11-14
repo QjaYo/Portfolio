@@ -28,7 +28,7 @@
 
 - Stable Fluid - Joe Stam
 
-3. 수학
+2. 수학
    
 - 미적분학
   
@@ -39,11 +39,16 @@
 3. 컴퓨터그래픽스
 [https://github.com/QjaYo/ComputerGraphics.git]
 
+- IK
+
+4. 컴퓨터비전
+
 - 
 
-5. 컴퓨터비전
+5. 유니티
 
-- 
+- 존레몬의 공포체험 게임 제작
+  [https://qjayo.tistory.com/5]
 
 7. ETC
 
