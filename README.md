@@ -7,6 +7,7 @@
    - 프로젝트
      
       - Stable Fluid
+        [https://github.com/QjaYo/StamFluidforGames.git]
   
    - 논문 리뷰
      
@@ -38,11 +39,13 @@
 - 수치해석학
 
 ### 3. 컴퓨터그래픽스
+
+[https://github.com/QjaYo/ComputerGraphics.git]
+
 - Camera System, 3D Transform
 - Shader Programming
 - Inverse Kinematics
 - Maze Navigator
-[https://github.com/QjaYo/ComputerGraphics.git]
 
 ### 4. 컴퓨터비전
 []
