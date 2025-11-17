@@ -52,8 +52,11 @@
   [https://qjayo.tistory.com/5]
 
 ### 6. 기타
+
+- 알고리즘
+  [https://github.com/QjaYo/Algorithm.git]
   
-- Database
+- 데이터베이스
   [https://github.com/QjaYo/DatabaseMiniProject_OnlineShoppingMall.git]
 
 ## Contact
