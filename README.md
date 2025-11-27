@@ -46,9 +46,12 @@
 ### 4. 컴퓨터비전
 [https://github.com/QjaYo/Computer-Vision.git]
 
-### 5. 유니티
+### 5. 게임제작
 
-- 존레몬의 공포체험 게임 제작
+- 뱀게임(SnakeGame) 프로젝트 (C++)
+  [https://github.com/QjaYo/SnakeGame.git]
+
+- 존레몬의 공포체험 게임 제작 (Unity, C#)
   [https://qjayo.tistory.com/5]
 
 ### 6. 기타
