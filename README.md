@@ -42,6 +42,7 @@
 - Shader Programming
 - Inverse Kinematics
 - Maze Navigator
+- .obj File Reader
 
 ### 4. 컴퓨터비전
 [https://github.com/QjaYo/Computer-Vision.git]
