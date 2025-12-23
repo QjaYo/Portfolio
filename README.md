@@ -43,6 +43,7 @@
 - Inverse Kinematics
 - Maze Navigator
 - .obj File Reader
+- Ray-Tracing
 
 ### 4. 컴퓨터비전
 [https://github.com/QjaYo/Computer-Vision.git]
