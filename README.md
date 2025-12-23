@@ -38,8 +38,7 @@
 
 [https://github.com/QjaYo/ComputerGraphics.git]
 
-- Camera System, 3D Transform
-- Shader Programming
+- Camera System, 3D Transform, Shader Programming
 - Inverse Kinematics
 - Maze Navigator
 - .obj File Reader
