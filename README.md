@@ -7,6 +7,9 @@
 
       - Mass-Spring Cloth Simulation
         [https://github.com/QjaYo/Mass-Spring-Cloth-Simulation.git]
+
+      - XPBD
+        [https://github.com/QjaYo/XPBD.git]
   
    - 논문 리뷰
      
